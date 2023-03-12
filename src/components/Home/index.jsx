@@ -10,7 +10,7 @@ export const Home = () => {
                 </TopContainer>
                 
                 <BottomContainer>
-                <h2><strong>Dia 25/03</strong></h2>
+                <h2><strong>Dia 25/03 - 10h às 17h</strong></h2>
                 <h2>Local: Lorem ipsum dolor, 99 - Lorem ipsum dolor, São Paulo - SP, 00000-000 </h2>
                 </BottomContainer>
                 </ContentContainer>
