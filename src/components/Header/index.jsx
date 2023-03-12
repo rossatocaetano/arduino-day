@@ -1,6 +1,6 @@
 import { HeaderContainer, BurgerMenuIcon, LogoContainer, NavContainer } from "./style";
 import logoArduino from "../../img/logo-arduino.svg";
-import logoOrganizer from "../../img/logo-fablab-horizontal.png"
+import logoOrganizer from "../../img/logo-horizontal.png"
 import burgerMenuIcon from "../../img/burger-menu-icon.svg";
 import { useState } from "react";
 import { Sidebar } from "./Sidebar"

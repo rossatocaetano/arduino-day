@@ -36,7 +36,7 @@ export const GlobalStyle = createGlobalStyle`
     }
     body {
         line-height: 1;
-        font-family: 'Montserrat', sans-serif; /* adpapt for this app */
+        font-family: 'Roboto', sans-serif; /* adpapt for this app */
     }
     ol, ul {
         list-style: none;
