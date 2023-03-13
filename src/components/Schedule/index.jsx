@@ -3,7 +3,7 @@ import { ScheduleContainer } from './style'
 export const Schedule = () => {
     return (
         <ScheduleContainer>
-            <h1>Programação</h1>
+            <h1 id="programacao">Programação</h1>
             <ul>
                 <li>
                     <span>10h</span>

@@ -14,9 +14,9 @@ export const Sidebar = ({ active }) => {
     <Container sidebar={active}>
       <Itens>
         <ul>
-          <li><a href='#'>Home</a></li>
-          <li><a href='#'>Programação</a></li>
-          <li><a href='#'>História</a></li>
+          <li><a href='#top'>Home</a></li>
+          <li><a href='#programacao'>Programação</a></li>
+          <li><a href='#historia'>História</a></li>
         </ul>
       </Itens>
     </Container>
