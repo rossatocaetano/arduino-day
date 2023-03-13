@@ -3,6 +3,7 @@ import { GlobalStyle } from './components/GlobalStyle';
 import { Header } from './components/Header';
 import { Home } from './components/Home'
 import { Schedule } from './components/Schedule';
+import { Story } from './components/Story'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     <Header></Header>
     <Home></Home>
     <Schedule></Schedule>
+    <Story></Story>
     <Footer></Footer>
     </>
     

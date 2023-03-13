@@ -5,6 +5,7 @@ export const Palette = {
     "thirdColor" : "rgba(241, 103, 36, 1)", /* orange */
     "fourthColor" : "rgba(177, 18, 22, 1)", /* red */
     "fifthColor" :  "rgba(0, 44, 63, 1)", /* dark blue */
+    "specialColor": "rgba(241, 103, 36, 0)" /* orange transparent*/
 };
 
 
